@@ -18,14 +18,14 @@ Installation
 -------------
 Untuk instalasi script silahkan jalankan perintah berikut:
 ```sh
-$ wget https://raw.githubusercontent.com/FosterG4/ucok/master/centos-kvm.sh
+$ wget https://raw.githubusercontent.com/Gustiawanikko/AutoInstallOpenVpn/main/centos-kvm.sh
 $ chmod +x centos-kvm.sh
 $ sh centos-kvm.sh
 ```
 atau
 
 ```sh
-$ wget https://raw.githubusercontent.com/FosterG4/ucok/master/centos-kvm.sh && chmod +x centos-kvm.sh && sh centos-kvm.sh
+$ wget https://raw.githubusercontent.com/Gustiawanikko/AutoInstallOpenVpn/main/centos-kvm.sh && chmod +x centos-kvm.sh && sh centos-kvm.sh
 ```
 Perintah diatas akan menginstall script auto installer. Anda akan disuruh untuk mengisi:
 
